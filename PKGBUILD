@@ -1,6 +1,6 @@
 # Original Maintainer: Nero AG <techsupport@nero.com>
-# Maintainer: chmaha <champson at tutanota dot com>
-# Created from https://aur.archlinux.org/packages/nerolinux3
+# Maintainer: FabioLolix 
+# Created from https://aur.archlinux.org/packages/nerolinux3 by chmaha
 # Edited by visious
 
 pkgname=nerolinux4
